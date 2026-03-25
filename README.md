@@ -9,7 +9,7 @@
 To build a C program that prints integer, float,character, and string literals on the console using the printf() function.
 # Algorithm:
 ### Step 1:
-  Start
+  Start 
 ### Step 2: 
   Include the standard input-output library: #include<stdio.h>.
 ### Step 3: 
